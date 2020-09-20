@@ -1,5 +1,7 @@
 {
   "name": "kappa-chat-svelte-component",
+  "description": "Kappa hypercore chat component",
+  "version": "1.0.1",
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
@@ -48,8 +50,6 @@
     "src",
     "dist"
   ],
-  "description": "Kappa hypercore chat component",
-  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DougAnderson444/kappa-chat-svelte-component.git"
